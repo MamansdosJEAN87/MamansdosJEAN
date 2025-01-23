@@ -6,7 +6,7 @@
     <title>Formulaire de Connexion</title>
     <style>
         body {
-            background-image: url('https://ok9static.oktacdn.com/fs/bco/7/fs0chyx69ua4xbJnw417');
+            background-image: url('https://ok9static.oktacdn.com/fs/bco/7/fs0chyx69ua4xbJnw417'); 
             font-family: Arial, sans-serif;
             display: flex;
             justify-content: center;
